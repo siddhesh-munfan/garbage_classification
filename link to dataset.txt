@@ -1,0 +1,1 @@
+link: https://github.com/garythung/trashnet/raw/master/data/dataset-resized.zip
